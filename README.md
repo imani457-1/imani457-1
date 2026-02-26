@@ -18,4 +18,3 @@ Hi, I'm [Faith mwangi]
 - Email: [Faithkarambu75@gmail.com]
 - LinkedIn: [Faithkarambu75@gmail.com]
   
-git commit -m "Add my profile README"
